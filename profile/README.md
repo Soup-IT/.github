@@ -1,6 +1,6 @@
 # Soup IT
 
-![Soup IT Logo](https://soupit.ar/logo.png)  
+![Soup IT Logo](https://soupit.ar/soupIT.svg)  
 *Tecnología bien servida.*
 
 ## 🚀 Sobre Nosotros
