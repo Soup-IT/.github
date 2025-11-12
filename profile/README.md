@@ -7,6 +7,7 @@ En **Soup IT**, nos especializamos en el desarrollo de soluciones tecnológicas 
 ## 🛠️ Nuestros Servicios
 - **Desarrollo de Aplicaciones Móviles** 📱
 - **Desarrollo Web Personalizado** 🌐
+- **Desarrollo a medida de soluciones** 👨🏽‍💻
 - **Sistemas ERP y CRM** 📊
 - **Consultoría Tecnológica** 🧠
 
